@@ -21,6 +21,7 @@ h1 {
 
 .image img {
     width: 300px;
+    cursor: pointer;
 }
 
 main {
